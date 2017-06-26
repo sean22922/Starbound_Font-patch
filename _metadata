@@ -1,0 +1,8 @@
+{
+  "version" : "1.0",
+  "author" : "sean22922",
+  "description" : "字體補丁包",
+  "name" : "Font patch",
+  "friendlyName" : "Font patch",
+  "priority" : -101
+}
